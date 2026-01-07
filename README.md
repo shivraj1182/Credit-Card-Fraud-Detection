@@ -238,3 +238,5 @@ This project is for educational purposes. Real-world fraud detection systems req
 ## Contact
 
 For questions or suggestions, please open an issue on the GitHub repository.
+
+Made with love in India.
